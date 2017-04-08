@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: liyli
+bio: Experimenting and recording...
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/liyli-profile1.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -48,7 +48,7 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: lily.lixiaolei@gmail.com
 
 authors:
     johndoe:
